@@ -11,6 +11,7 @@ def index():
 		name = request.form["name"]
 		place = request.form["place"]
 		greet = "name:{} email:{} place:{}".format(name,email,place)
+		send_file("food", email)
 		return  greet
 
 	return render_template('index.html')
