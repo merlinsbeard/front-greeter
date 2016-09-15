@@ -1,0 +1,11 @@
+header {
+  background-image: url("https://drscdn.500px.org/photo/168551017/m%3D1170_k%3D1_a%3D1/1ec8d7a6dcaec4c2d495e6342ea60a11");
+}
+#bg {
+  position: fixed;
+  top: 0 ;
+  left: 0 ;
+
+  min-width: 100%;
+  min-height: 100;
+}
