@@ -7,7 +7,7 @@ gTTS==1.1.6
 gTTS-token==1.1.1
 gunicorn==19.6.0
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 MarkupSafe==0.23
 praw==3.5.0
 requests==2.10.0
